@@ -1,0 +1,10 @@
+C:\Atriina1\Polymorphism\Polymorphism\bin\Debug\netcoreapp1.1\Polymorphism.deps.json
+C:\Atriina1\Polymorphism\Polymorphism\bin\Debug\netcoreapp1.1\Polymorphism.runtimeconfig.json
+C:\Atriina1\Polymorphism\Polymorphism\bin\Debug\netcoreapp1.1\Polymorphism.runtimeconfig.dev.json
+C:\Atriina1\Polymorphism\Polymorphism\bin\Debug\netcoreapp1.1\Polymorphism.dll
+C:\Atriina1\Polymorphism\Polymorphism\bin\Debug\netcoreapp1.1\Polymorphism.pdb
+C:\Atriina1\Polymorphism\Polymorphism\obj\Debug\netcoreapp1.1\Polymorphism.csprojAssemblyReference.cache
+C:\Atriina1\Polymorphism\Polymorphism\obj\Debug\netcoreapp1.1\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Atriina1\Polymorphism\Polymorphism\obj\Debug\netcoreapp1.1\Polymorphism.AssemblyInfo.cs
+C:\Atriina1\Polymorphism\Polymorphism\obj\Debug\netcoreapp1.1\Polymorphism.dll
+C:\Atriina1\Polymorphism\Polymorphism\obj\Debug\netcoreapp1.1\Polymorphism.pdb
