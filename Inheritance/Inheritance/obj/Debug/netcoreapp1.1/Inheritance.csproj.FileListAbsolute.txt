@@ -1,0 +1,10 @@
+C:\Atriina1\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Inheritance.deps.json
+C:\Atriina1\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Inheritance.runtimeconfig.json
+C:\Atriina1\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Inheritance.runtimeconfig.dev.json
+C:\Atriina1\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Inheritance.dll
+C:\Atriina1\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Inheritance.pdb
+C:\Atriina1\Inheritance\Inheritance\obj\Debug\netcoreapp1.1\Inheritance.csprojAssemblyReference.cache
+C:\Atriina1\Inheritance\Inheritance\obj\Debug\netcoreapp1.1\Inheritance.csproj.CoreCompileInputs.cache
+C:\Atriina1\Inheritance\Inheritance\obj\Debug\netcoreapp1.1\Inheritance.AssemblyInfo.cs
+C:\Atriina1\Inheritance\Inheritance\obj\Debug\netcoreapp1.1\Inheritance.dll
+C:\Atriina1\Inheritance\Inheritance\obj\Debug\netcoreapp1.1\Inheritance.pdb
