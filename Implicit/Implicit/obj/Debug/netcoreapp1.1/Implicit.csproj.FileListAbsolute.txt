@@ -1,0 +1,9 @@
+C:\Atriina1\Implicit\Implicit\bin\Debug\netcoreapp1.1\Implicit.deps.json
+C:\Atriina1\Implicit\Implicit\bin\Debug\netcoreapp1.1\Implicit.runtimeconfig.json
+C:\Atriina1\Implicit\Implicit\bin\Debug\netcoreapp1.1\Implicit.runtimeconfig.dev.json
+C:\Atriina1\Implicit\Implicit\bin\Debug\netcoreapp1.1\Implicit.dll
+C:\Atriina1\Implicit\Implicit\bin\Debug\netcoreapp1.1\Implicit.pdb
+C:\Atriina1\Implicit\Implicit\obj\Debug\netcoreapp1.1\Implicit.csproj.CoreCompileInputs.cache
+C:\Atriina1\Implicit\Implicit\obj\Debug\netcoreapp1.1\Implicit.AssemblyInfo.cs
+C:\Atriina1\Implicit\Implicit\obj\Debug\netcoreapp1.1\Implicit.dll
+C:\Atriina1\Implicit\Implicit\obj\Debug\netcoreapp1.1\Implicit.pdb
